@@ -234,9 +234,10 @@ article.active {
 
 .h2 { font-size: var(--fs-1); }
 
-.h3 { font-size: var(--fs-2); 
+.h3 { 
+    font-size: var(--fs-2); 
     color: var(--smoky-black);
-    }
+}
 
 .h4 { font-size: var(--fs-4); }
 
