@@ -967,7 +967,7 @@ main {
   text-transform: capitalize;
   width: 100%;
   padding: 8px 10px;
-  border-radius: 8px;
+  border-radius: 0px;
 }
 
 .select-item button:hover { color: var(--cian2); }
